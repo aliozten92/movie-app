@@ -1,0 +1,22 @@
+flavors:
+  dev:
+    app:
+      name: "Movie App Dev"
+    android:
+      applicationId: "com.example.movie_app.dev"
+    ios:
+      bundleId: "com.example.movieApp.dev"
+  qa:
+    app:
+      name: "Movie App QA"
+    android:
+      applicationId: "com.example.movie_app.qa"
+    ios:
+      bundleId: "com.example.movieApp.qa"
+  prod:
+    app:
+      name: "Movie App"
+    android:
+      applicationId: "com.example.movie_app"
+    ios:
+      bundleId: "com.example.movieApp"
