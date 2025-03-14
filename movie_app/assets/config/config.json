@@ -1,0 +1,17 @@
+{
+  "dev": {
+    "base_url": "https://api.themoviedb.org/3",
+    "api_key": "25333ac3d5d950a4d1bf644a0232c9ce",
+    "image_base_url": "https://image.tmdb.org/t/p/w220_and_h330_face"
+  },
+  "qa": {
+    "base_url": "https://api.themoviedb.org/3",
+    "api_key": "25333ac3d5d950a4d1bf644a0232c9ce",
+    "image_base_url": "https://image.tmdb.org/t/p/w220_and_h330_face"
+  },
+  "prod": {
+    "base_url": "https://api.themoviedb.org/3",
+    "api_key": "25333ac3d5d950a4d1bf644a0232c9ce",
+    "image_base_url": "https://image.tmdb.org/t/p/w220_and_h330_face"
+  }
+} 

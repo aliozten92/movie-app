@@ -1,0 +1,31 @@
+{
+  "app": {
+    "name": "Movie App",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Movie App",
+    "search": "Search movies...",
+    "no_results": "No movies found",
+    "error": "Error loading movies"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "empty": "No favorite movies found",
+    "error": "Error loading favorites"
+  },
+  "movie_detail": {
+    "title": "Movie Detail",
+    "error": "Error loading movie details",
+    "release_date": "Release Date",
+    "rating": "Rating",
+    "overview": "Overview"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "ok": "OK"
+  }
+} 
